@@ -1,6 +1,7 @@
 ## Hi there 👋
-### I'm an architectural PhD candidate 🌱
-### I'm currently learning Data Science
+### 📖 I'm an architectural PhD candidate 
+### 💻 I'm currently learning Data Science
+#### 
 
 
 <!--
