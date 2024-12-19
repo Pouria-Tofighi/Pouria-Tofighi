@@ -6,8 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Pouria.tofighi@gmail.com)
 [![Github](https://img.shields.io/github/followers/Pouria-tofighi?label=Follow&style=social)](https://github.com/Pouria-Tofighi)
 
-- 💻 I am an architectural PhD candidate
-- 🌱 I am Learning Data Science
+- 📖 I am an architectural PhD candidate
+- 💻 I am Learning Data Science
 
 
 
