@@ -1,4 +1,7 @@
 ## Hi there 👋
+### I'm an architectural PhD candidate 🌱
+### I'm currently learning Data Science
+
 
 <!--
 **Pouria-Tofighi/Pouria-Tofighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
